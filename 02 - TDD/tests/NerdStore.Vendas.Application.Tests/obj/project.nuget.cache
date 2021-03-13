@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AMDr0bVjMSP/nVunYDr1qfmqNBzM+hN8mQ6KJSmXhEgxo7IhUy4DNqMrSrHbl/7yrqc2xqxoU1D7CwpWp016DQ==",
+  "dgSpecHash": "McYzpsmmaGOTyt0hkuo8tAfQ7dDDKCCYLrB9PSMbiMmnIbXeaQuSbVUMZfFAagcgWabvG4hBJCmbSWC7PyWBvA==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\NerdStore.Vendas.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",

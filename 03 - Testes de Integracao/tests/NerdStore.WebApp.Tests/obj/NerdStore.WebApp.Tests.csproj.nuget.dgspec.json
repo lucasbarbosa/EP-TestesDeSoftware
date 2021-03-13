@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj": {}
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "projectName": "Features.Tests",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "projectName": "Features",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
         "projectName": "NerdStore.Vendas.Application",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,11 +253,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
               }
             }
           }
@@ -293,14 +293,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
         "projectName": "NerdStore.Vendas.Data",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -317,11 +317,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
               }
             }
           }
@@ -369,14 +369,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
         "projectName": "NerdStore.Vendas.Domain",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -393,8 +393,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -434,14 +434,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
         "projectName": "NerdStore.Catalogo.Application",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -458,11 +458,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
               }
             }
           }
@@ -502,14 +502,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
         "projectName": "NerdStore.Catalogo.Data",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -526,8 +526,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
               }
             }
           }
@@ -575,14 +575,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "projectName": "NerdStore.Catalogo.Domain",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -599,8 +599,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -640,14 +640,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
         "projectName": "NerdStore.WebApp.MVC",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -664,23 +664,23 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
               }
             }
           }
@@ -743,14 +743,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
         "projectName": "NerdStore.WebApp.Tests",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -767,11 +767,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj"
               },
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj"
               }
             }
           }

@@ -6120,11 +6120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
       "projectName": "NerdStore.Vendas.Domain.Tests",
-      "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
+      "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-      "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6141,8 +6141,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
-              "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+            "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+              "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
             }
           }
         }

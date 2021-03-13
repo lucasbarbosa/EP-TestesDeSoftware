@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RifZN9TQS0PbTth/87Ee75l+5AyQ34u4tJNwotgDYtlKW+dhux9OyOk4QoC2aiBbtk1vjjuGyBg6ciVp91NpuQ==",
+  "dgSpecHash": "MQfdmusodlIDUE0tPRUiDVN+tMwQ+GtRoD7jlqy9kd7L99qaMZOKYANoSVeMVls3vdZipibKSxo3JChdE1MHTA==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

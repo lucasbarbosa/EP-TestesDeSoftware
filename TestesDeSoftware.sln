@@ -51,6 +51,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - BDD - Testes de Automa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.BDD.Tests", "04 - BDD\tests\NerdStore.BDD.Tests\NerdStore.BDD.Tests.csproj", "{47E93195-FA6F-445D-816E-044EB73995C9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{F69D2CB4-A858-40FF-BCDC-584573E4D9CB}"
+	ProjectSection(SolutionItems) = preProject
+		Notes\Links.txt = Notes\Links.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

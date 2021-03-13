@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5F+D/3JugbR9oPPxiKhlZGSHHTfpP9LH0HRnTXrx+Ta/+0LGerx8BL6XYsdrjNIC667m2CTxTBGakqZPEu1qw==",
+  "dgSpecHash": "WBtxB2+fI/1TTU4CfhdiSH0GqDdtpebKMzfZ+EL3yIsfzE+XvyCKqsuFtZcHaXnit+oZjAVMGpIuQF5hElABxw==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

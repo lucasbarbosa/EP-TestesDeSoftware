@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {}
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "projectName": "Features.Tests",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "projectName": "Features",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",

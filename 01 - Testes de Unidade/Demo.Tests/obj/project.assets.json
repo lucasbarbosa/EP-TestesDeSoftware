@@ -5924,11 +5924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+      "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
       "projectName": "Demo.Tests",
-      "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+      "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
       "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-      "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo.Tests\\obj\\",
+      "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5945,8 +5945,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
-              "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Demo\\Demo.csproj"
+            "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
+              "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj"
             }
           }
         }

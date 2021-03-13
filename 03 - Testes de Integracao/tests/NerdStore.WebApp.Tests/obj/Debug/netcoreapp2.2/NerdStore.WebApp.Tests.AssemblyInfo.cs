@@ -11,30 +11,28 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features", "Features.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features.Tests", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\01 - Testes de Unidade\\Features.Tests", "Features.Tests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Application", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.A" +
-    "pplication", "NerdStore.Catalogo.Application.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Data", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.D" +
-    "ata", "NerdStore.Catalogo.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Domain", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.D" +
-    "omain", "NerdStore.Catalogo.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Core", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Core", "NerdStore.Core.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Application", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Application", "NerdStore.Vendas.Application.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Data", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data", "NerdStore.Vendas.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Domain", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Domain", "NerdStore.Vendas.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.WebApp.MVC", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materi" +
-    "ais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC" +
-    "", "NerdStore.WebApp.MVC.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\01 - Testes de Unidade\\Features", "Features.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\01 - Testes de Unidade\\Features.Tests", "Features.Tests.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=" +
+    "null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application", "NerdStore.Catalogo.Application.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data", "NerdStore.Catalogo.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain", "NerdStore.Catalogo.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\02 - TDD\\src\\NerdStore.Core", "NerdStore.Core.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +
+    "ll", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application", "NerdStore.Vendas.Application.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data", "NerdStore.Vendas.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain", "NerdStore.Vendas.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.WebApp.MVC", "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-Tes" +
+    "tesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC", "NerdStore.WebApp.MVC.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.WebApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

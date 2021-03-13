@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UNoCQI5lAoJwnBazcwZ5aMNQwcaZOA5ZwAM9uLmAyTd/Z0ymj7MeAwd/fxzQt6foq2grLHhzs8UeIMQ7Zpzbqw==",
+  "dgSpecHash": "BYX5RUaXdbaVXadCCPn665nPKYQk0I+8qtAWhMCJu3LF0TPJkKG0EdKqAXgcrMOPbw0Zh3l9AJB3W0gTKCkq4g==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

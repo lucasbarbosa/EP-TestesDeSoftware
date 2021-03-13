@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CLc5I75M6tQ7END3tD5eRvEK78+4EZAVItcb+n2TSy0xD8OdEW1UAcdBdwvuFpbl4/s3wszT6th9+nvXufHa7A==",
+  "dgSpecHash": "0Hn8lHVxaAimftif67I4H5ZB92knzI7ZQcfXhyWN4TJK7Vsbc/gg6K7FxbRXKpuQbue0aHq48tl1ino3JfZ6XQ==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\bogus\\28.3.2\\bogus.28.3.2.nupkg.sha512",

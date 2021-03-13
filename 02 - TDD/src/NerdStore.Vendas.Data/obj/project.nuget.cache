@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OQjeGn3t0dbwXy9vFlmtbmch4/hZyR1QbAs6EoZ/mmIJ3cIoEyn1m2gBwL4u6QWGqtCHU5r589O6K8k05/6qHA==",
+  "dgSpecHash": "ytGeZOhFQIxOvqbTbDQdy3vkjIR1thzNczkEf016a+gRpb8Fxsm50p4tnNuvtOQFlf6hTztkRNHLDH1JhAStdQ==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\Materiais\\05 - Testes Automatizados\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\EduardoPires\\DominandoTestesSoftware\\EP-TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
