@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - BDD - Testes de Automa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{F69D2CB4-A858-40FF-BCDC-584573E4D9CB}"
 	ProjectSection(SolutionItems) = preProject
-		Notes\Links.txt = Notes\Links.txt
+		Notes\01 - A importância de testar.txt = Notes\01 - A importância de testar.txt
 	EndProjectSection
 EndProject
 Global
